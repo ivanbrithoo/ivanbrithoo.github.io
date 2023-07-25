@@ -1,0 +1,34 @@
+.conteiner{
+     width: 90%;
+     height: 100%;
+     left: 0;
+    right: 0;
+    margin: auto;
+    margin: 5%;
+    padding: 10px;
+}
+.header,.footer{
+    width: 90%;
+    height: 150px;
+    background-color: blueviolet;
+
+}
+.main-content{
+
+    
+    width: 90%;
+    height: 800px;
+    background-color: fuchsia;
+    text-align: center;
+
+}
+.box{
+    width: 300px;
+    height: 300px;
+    background-color: gold;
+    margin: 20px;
+    padding: 10px;
+    margin: 5%;
+    float: left;
+    text-align: center;
+}

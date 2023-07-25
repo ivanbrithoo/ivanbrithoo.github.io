@@ -1,0 +1,33 @@
+.section1{
+    width: 900px;
+    height: 200px;
+    background-color: #000000;
+}
+.btn1{
+    float: right;
+    background-color: #eeff00;
+    width: 120px;
+    height: 40px;
+    color: #0084ff;
+    border-radius: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    font-weight: bold;   /*negritas*/
+    cursor: pointer;
+    border: 2px solid #33ff00;
+    
+}
+.btn2{
+    float: right;
+    background-color: #eeff00;
+    width: 120px;
+    height: 40px;
+    color: #0084ff;
+    border-radius: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    font-weight: bold;   /*negritas*/
+    cursor: pointer;
+    border: 2px solid #33ff00;
+    
+}

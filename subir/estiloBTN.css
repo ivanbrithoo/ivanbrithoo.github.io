@@ -1,0 +1,38 @@
+.container{
+    width: 80%;
+    height: 90%;
+    background-color: #cc0e27;
+}
+.botones{
+    width: 50%;
+    height: 30%;
+    background-color: #328872;
+}
+.btn1{
+    float: right;
+    background-color: #703288;
+    width: 120px;
+    height: 40px;
+    color: #00d9ff;
+    border-radius: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    font-weight: bold;   /*negritas*/
+    cursor: pointer;
+    border: 2px solid #ff0022;
+    
+}
+.btn2{
+    float: right;
+    background-color: #ff00d4;
+    width: 120px;
+    height: 40px;
+    color: #ff002b;
+    border-radius: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    font-weight: bold;  /*negritas*/
+    cursor: pointer;
+    border: 2px solid #00eeff;
+    
+}
